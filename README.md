@@ -1,2 +1,2 @@
 # Ohjelmistokehittaja
-by Top Viljanen
+by Topi Viljanen
