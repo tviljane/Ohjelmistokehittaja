@@ -1,0 +1,12 @@
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\StringNimi\StringNimi\obj\Debug\netcoreapp3.1\StringNimi.csproj.CoreCompileInputs.cache
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\StringNimi\StringNimi\obj\Debug\netcoreapp3.1\StringNimi.AssemblyInfoInputs.cache
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\StringNimi\StringNimi\obj\Debug\netcoreapp3.1\StringNimi.AssemblyInfo.cs
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\StringNimi\StringNimi\bin\Debug\netcoreapp3.1\StringNimi.exe
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\StringNimi\StringNimi\bin\Debug\netcoreapp3.1\StringNimi.deps.json
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\StringNimi\StringNimi\bin\Debug\netcoreapp3.1\StringNimi.runtimeconfig.json
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\StringNimi\StringNimi\bin\Debug\netcoreapp3.1\StringNimi.runtimeconfig.dev.json
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\StringNimi\StringNimi\bin\Debug\netcoreapp3.1\StringNimi.dll
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\StringNimi\StringNimi\bin\Debug\netcoreapp3.1\StringNimi.pdb
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\StringNimi\StringNimi\obj\Debug\netcoreapp3.1\StringNimi.dll
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\StringNimi\StringNimi\obj\Debug\netcoreapp3.1\StringNimi.pdb
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\StringNimi\StringNimi\obj\Debug\netcoreapp3.1\StringNimi.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Harjoituksia1\Harjoituksia1\bin\Debug\netcoreapp3.1\Harjoituksia1.exe
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Harjoituksia1\Harjoituksia1\bin\Debug\netcoreapp3.1\Harjoituksia1.deps.json
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Harjoituksia1\Harjoituksia1\bin\Debug\netcoreapp3.1\Harjoituksia1.runtimeconfig.json
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Harjoituksia1\Harjoituksia1\bin\Debug\netcoreapp3.1\Harjoituksia1.runtimeconfig.dev.json
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Harjoituksia1\Harjoituksia1\bin\Debug\netcoreapp3.1\Harjoituksia1.dll
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Harjoituksia1\Harjoituksia1\bin\Debug\netcoreapp3.1\Harjoituksia1.pdb
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Harjoituksia1\Harjoituksia1\obj\Debug\netcoreapp3.1\Harjoituksia1.csprojAssemblyReference.cache
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Harjoituksia1\Harjoituksia1\obj\Debug\netcoreapp3.1\Harjoituksia1.csproj.CoreCompileInputs.cache
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Harjoituksia1\Harjoituksia1\obj\Debug\netcoreapp3.1\Harjoituksia1.AssemblyInfoInputs.cache
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Harjoituksia1\Harjoituksia1\obj\Debug\netcoreapp3.1\Harjoituksia1.AssemblyInfo.cs
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Harjoituksia1\Harjoituksia1\obj\Debug\netcoreapp3.1\Harjoituksia1.dll
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Harjoituksia1\Harjoituksia1\obj\Debug\netcoreapp3.1\Harjoituksia1.pdb
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Harjoituksia1\Harjoituksia1\obj\Debug\netcoreapp3.1\Harjoituksia1.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\OmaNimi\OmaNimi\bin\Debug\netcoreapp3.1\OmaNimi.exe
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\OmaNimi\OmaNimi\bin\Debug\netcoreapp3.1\OmaNimi.deps.json
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\OmaNimi\OmaNimi\bin\Debug\netcoreapp3.1\OmaNimi.runtimeconfig.json
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\OmaNimi\OmaNimi\bin\Debug\netcoreapp3.1\OmaNimi.runtimeconfig.dev.json
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\OmaNimi\OmaNimi\bin\Debug\netcoreapp3.1\OmaNimi.dll
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\OmaNimi\OmaNimi\bin\Debug\netcoreapp3.1\OmaNimi.pdb
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\OmaNimi\OmaNimi\obj\Debug\netcoreapp3.1\OmaNimi.csproj.CoreCompileInputs.cache
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\OmaNimi\OmaNimi\obj\Debug\netcoreapp3.1\OmaNimi.AssemblyInfoInputs.cache
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\OmaNimi\OmaNimi\obj\Debug\netcoreapp3.1\OmaNimi.AssemblyInfo.cs
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\OmaNimi\OmaNimi\obj\Debug\netcoreapp3.1\OmaNimi.dll
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\OmaNimi\OmaNimi\obj\Debug\netcoreapp3.1\OmaNimi.pdb
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\OmaNimi\OmaNimi\obj\Debug\netcoreapp3.1\OmaNimi.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Oma\Oma\bin\Debug\netcoreapp3.1\Oma.exe
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Oma\Oma\bin\Debug\netcoreapp3.1\Oma.deps.json
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Oma\Oma\bin\Debug\netcoreapp3.1\Oma.runtimeconfig.json
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Oma\Oma\bin\Debug\netcoreapp3.1\Oma.runtimeconfig.dev.json
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Oma\Oma\bin\Debug\netcoreapp3.1\Oma.dll
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Oma\Oma\bin\Debug\netcoreapp3.1\Oma.pdb
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Oma\Oma\obj\Debug\netcoreapp3.1\Oma.csproj.CoreCompileInputs.cache
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Oma\Oma\obj\Debug\netcoreapp3.1\Oma.AssemblyInfoInputs.cache
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Oma\Oma\obj\Debug\netcoreapp3.1\Oma.AssemblyInfo.cs
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Oma\Oma\obj\Debug\netcoreapp3.1\Oma.dll
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Oma\Oma\obj\Debug\netcoreapp3.1\Oma.pdb
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Oma\Oma\obj\Debug\netcoreapp3.1\Oma.genruntimeconfig.cache
