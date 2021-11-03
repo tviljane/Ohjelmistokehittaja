@@ -1,0 +1,13 @@
+C:\Users\topi.viljanen\source\repos\Harjoituksia2\Harjoituksia2\obj\Debug\netcoreapp3.1\Harjoituksia2.csprojAssemblyReference.cache
+C:\Users\topi.viljanen\source\repos\Harjoituksia2\Harjoituksia2\obj\Debug\netcoreapp3.1\Harjoituksia2.csproj.CoreCompileInputs.cache
+C:\Users\topi.viljanen\source\repos\Harjoituksia2\Harjoituksia2\obj\Debug\netcoreapp3.1\Harjoituksia2.AssemblyInfoInputs.cache
+C:\Users\topi.viljanen\source\repos\Harjoituksia2\Harjoituksia2\obj\Debug\netcoreapp3.1\Harjoituksia2.AssemblyInfo.cs
+C:\Users\topi.viljanen\source\repos\Harjoituksia2\Harjoituksia2\bin\Debug\netcoreapp3.1\Harjoituksia2.exe
+C:\Users\topi.viljanen\source\repos\Harjoituksia2\Harjoituksia2\bin\Debug\netcoreapp3.1\Harjoituksia2.deps.json
+C:\Users\topi.viljanen\source\repos\Harjoituksia2\Harjoituksia2\bin\Debug\netcoreapp3.1\Harjoituksia2.runtimeconfig.json
+C:\Users\topi.viljanen\source\repos\Harjoituksia2\Harjoituksia2\bin\Debug\netcoreapp3.1\Harjoituksia2.runtimeconfig.dev.json
+C:\Users\topi.viljanen\source\repos\Harjoituksia2\Harjoituksia2\bin\Debug\netcoreapp3.1\Harjoituksia2.dll
+C:\Users\topi.viljanen\source\repos\Harjoituksia2\Harjoituksia2\bin\Debug\netcoreapp3.1\Harjoituksia2.pdb
+C:\Users\topi.viljanen\source\repos\Harjoituksia2\Harjoituksia2\obj\Debug\netcoreapp3.1\Harjoituksia2.dll
+C:\Users\topi.viljanen\source\repos\Harjoituksia2\Harjoituksia2\obj\Debug\netcoreapp3.1\Harjoituksia2.pdb
+C:\Users\topi.viljanen\source\repos\Harjoituksia2\Harjoituksia2\obj\Debug\netcoreapp3.1\Harjoituksia2.genruntimeconfig.cache

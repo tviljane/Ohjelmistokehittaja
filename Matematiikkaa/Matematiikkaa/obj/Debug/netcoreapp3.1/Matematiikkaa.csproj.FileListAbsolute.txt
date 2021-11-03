@@ -1,0 +1,13 @@
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\obj\Debug\netcoreapp3.1\Matematiikkaa.csprojAssemblyReference.cache
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\obj\Debug\netcoreapp3.1\Matematiikkaa.csproj.CoreCompileInputs.cache
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\obj\Debug\netcoreapp3.1\Matematiikkaa.AssemblyInfoInputs.cache
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\obj\Debug\netcoreapp3.1\Matematiikkaa.AssemblyInfo.cs
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\bin\Debug\netcoreapp3.1\Matematiikkaa.exe
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\bin\Debug\netcoreapp3.1\Matematiikkaa.deps.json
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\bin\Debug\netcoreapp3.1\Matematiikkaa.runtimeconfig.json
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\bin\Debug\netcoreapp3.1\Matematiikkaa.runtimeconfig.dev.json
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\bin\Debug\netcoreapp3.1\Matematiikkaa.dll
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\bin\Debug\netcoreapp3.1\Matematiikkaa.pdb
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\obj\Debug\netcoreapp3.1\Matematiikkaa.dll
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\obj\Debug\netcoreapp3.1\Matematiikkaa.pdb
+C:\Users\topi.viljanen\source\repot\Ohjelmistokehittaja\Matematiikkaa\Matematiikkaa\obj\Debug\netcoreapp3.1\Matematiikkaa.genruntimeconfig.cache
