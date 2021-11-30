@@ -1,0 +1,7 @@
+C:\Users\Topi\source\repot\Ohjelmistokehittaja\Oliotehtävä\Olio\Olio\obj\Debug\Olio.csproj.AssemblyReference.cache
+C:\Users\Topi\source\repot\Ohjelmistokehittaja\Oliotehtävä\Olio\Olio\obj\Debug\Olio.csproj.CoreCompileInputs.cache
+C:\Users\Topi\source\repot\Ohjelmistokehittaja\Oliotehtävä\Olio\Olio\bin\Debug\Olio.exe.config
+C:\Users\Topi\source\repot\Ohjelmistokehittaja\Oliotehtävä\Olio\Olio\bin\Debug\Olio.exe
+C:\Users\Topi\source\repot\Ohjelmistokehittaja\Oliotehtävä\Olio\Olio\bin\Debug\Olio.pdb
+C:\Users\Topi\source\repot\Ohjelmistokehittaja\Oliotehtävä\Olio\Olio\obj\Debug\Olio.exe
+C:\Users\Topi\source\repot\Ohjelmistokehittaja\Oliotehtävä\Olio\Olio\obj\Debug\Olio.pdb
